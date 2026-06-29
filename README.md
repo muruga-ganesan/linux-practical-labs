@@ -1,6 +1,6 @@
 # Linux Practical Labs
 
-## 📌 Overview
+## Overview
 
 This repository contains my Linux administration and production support practical exercises.
 
@@ -8,7 +8,7 @@ The labs focus on real-world Linux administration, troubleshooting, performance 
 
 ---
 
-## 🚀 Topics Covered
+## Topics Covered
 
 - Linux Installation
 - File System
@@ -26,7 +26,7 @@ The labs focus on real-world Linux administration, troubleshooting, performance 
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 File-System/
@@ -41,7 +41,7 @@ Shell/
 
 ---
 
-## 🛠 Technologies
+## Technologies
 
 - Ubuntu Linux
 - Amazon Linux
@@ -49,12 +49,12 @@ Shell/
 
 ---
 
-## 🎯 Goal
+## Goal
 
 Strengthen Linux administration skills for Production Support and SRE roles.
 
 ---
 
-## 📌 Status
+## Status
 
-🚧 Work in Progress
+---- Work in Progress ----
